@@ -121,7 +121,7 @@ public class Graph {
         return (n + 1);
     }
     
-    private final static String FILE = "E:/Courses/ICT16SW/y3/p2/maze.grh";
+    private final static String FILE = "src/maze.grh";
     private final static int FROM = 0;
     private final static int TO = 15;
 
